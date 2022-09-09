@@ -1,0 +1,26 @@
+ul {
+  list-style: none;
+  gap: 12px;
+  padding: 0;
+}
+
+.conn-1 {
+  background-image: url(./portfolio-images/Header-desktop.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom 95% right;
+  padding-bottom: 5rem;
+}
+
+label {
+  display: none;
+}
+
+footer {
+  color: #fff;
+  background-color: #6070ff;
+  border-top-left-radius: 75px;
+  background-image: url(./portfolio-images/contact-me-added.png);
+  background-repeat: no-repeat;
+  background-position: top 65% right;
+}
