@@ -11,7 +11,7 @@
 
 ## Link to the live page
 
-> Feel free to check the [Portfolio-link](https://osoro254alex.github.io/Mobile-Portfolio-Setup-Repo/).
+> Feel free to check the [Portfolio-link](https://portfolio-with-boostrap.netlify.app/).
 
 ## Getting Started
 
